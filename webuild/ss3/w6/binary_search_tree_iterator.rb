@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/binary-search-tree-iterator
+
 class TreeNode
   attr_accessor :val, :left, :right
 
